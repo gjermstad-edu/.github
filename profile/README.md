@@ -1,7 +1,10 @@
 ## Kenneth A. B. Gjermstad - Edu 👋
-Hiya, this is my github organization for all finished exams, tasks and courses I complete.
+Hiya, this is my github organization where I'll put exams, course assignements and other things I work on through school.
+
+**📫 How to reach me:**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/kennethbettumgjermstad/))
+[<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/mariebmo)
 
 <!--
 
