@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=gjermstad-edu)
+
 ## Kenneth A. B. Gjermstad - Edu 👋
 Hiya, this is my github organization where I'll put exams, course assignements and other things I work on through school.
 
