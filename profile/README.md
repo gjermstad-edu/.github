@@ -13,6 +13,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 
 #### 1st semester (fall 2023)
 - [PRO105 Kreativt webprosjekt, eksamen 2023](https://github.com/gjermstad-edu/PRO105_kreativt-webprosjekt_h2023_eksamen) (Bestått)
+- [PGR102 Intro til programmering, eksamen 2023](https://github.com/gjermstad-edu/PGR102_intro-til-programmering_h2023_eksamen) (Bestått)
 
 #### 2nd semester (Spring 2024)
 - [PGR112 Objektorientert programmering (OOP), eksamen 2024](https://github.com/gjermstad-edu/PGR112_Objektorientert-programmering_v2024_Eksamensbesvarelse) (Bestått)
