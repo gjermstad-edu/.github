@@ -1,9 +1,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gjermstad-edu)
 
 ## Kenneth A. B. Gjermstad - Edu 👋
-Hiya, this is my github organization where I'll put exams, course assignements and other things I work on through school.
+Heisann ☀️ Dette er GitHub'en min hvor jeg vil samle eksamensoppgaer, arbeidskrav og annet jeg var gjennom iløpet av utdanningen min ved Høyskolen Kristiania.
 
-**📫 How to reach me:**
+**📫 Ta kontakt om du vil:**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/kennethbettumgjermstad/))
 [<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/gjermstad)
@@ -11,11 +11,11 @@ Hiya, this is my github organization where I'll put exams, course assignements a
 ---
 Høyskolen Kristiania / College Kristiania campus Bergen
 
-#### 1st semester (fall 2023)
+#### 1. semester (høsten 2023)
 - [PRO105 Kreativt webprosjekt, eksamen 2023](https://github.com/gjermstad-edu/PRO105_kreativt-webprosjekt_h2023_eksamen) (Bestått)
 - [PGR102 Intro til programmering, eksamen 2023](https://github.com/gjermstad-edu/PGR102_intro-til-programmering_h2023_eksamen) (Bestått)
 
-#### 2nd semester (Spring 2024)
+#### 2. semester (våren 2024)
 - [PGR112 Objektorientert programmering (OOP), eksamen 2024](https://github.com/gjermstad-edu/PGR112_Objektorientert-programmering_v2024_Eksamensbesvarelse) (Bestått)
 
 <!--
