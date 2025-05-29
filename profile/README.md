@@ -12,8 +12,10 @@ Heisann ☀️ Dette er GitHub'en min hvor jeg vil samle eksamensoppgaer, arbeid
 Høyskolen Kristiania / College Kristiania campus Bergen
 
 #### 1. semester (høsten 2023)
+- [DB1102 Databaser, eksamen 2023](https://github.com/gjermstad-edu/DB1102_databaser_h2023_eksamen) (Bestått)
 - [PRO105 Kreativt webprosjekt, eksamen 2023](https://github.com/gjermstad-edu/PRO105_kreativt-webprosjekt_h2023_eksamen) (Bestått)
 - [PGR102 Intro til programmering, eksamen 2023](https://github.com/gjermstad-edu/PGR102_intro-til-programmering_h2023_eksamen) (Bestått)
+- [TK1104 Digital teknologi, eksamen 2023](https://github.com/gjermstad-edu/TK1104_Digital-teknologi_eksamen_H2023) (Bestått)
 
 #### 2. semester (våren 2024)
 - [PGR112 Objektorientert programmering (OOP), eksamen 2024](https://github.com/gjermstad-edu/PGR112_Objektorientert-programmering_v2024_Eksamensbesvarelse) (Bestått)
