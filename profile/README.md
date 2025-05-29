@@ -1,6 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gjermstad-edu)
 
-## Kenneth A. B. Gjermstad - Edu 👋
+## Kenneth Andre Bettum Gjermstad - Edu 👋
 Heisann ☀️ Dette er GitHub'en min hvor jeg samler eksamensbesvarelser, arbeidskrav og annet arbeid jeg har gjort iløpet av utdanningen min (bachelor i Informasjonsteknologi: Frontend- og mobilutvikling) ved Høyskolen Kristiania campus Bergen.
 
 **📫 Ta gjerne kontakt:**
