@@ -22,6 +22,12 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [TK2100 Informasjonssikkerhet, eksamen 2024](https://github.com/gjermstad-edu/TK2100_Informasjonssikkerhet_eksamen_V2024) (Bestått)
 - [PGR110 Visual Analytics, eksamen 2024](https://github.com/gjermstad-edu/PGR110_Visual-Analytics_eksamen_2024) (Bestått)
 
+#### 3. semester (høsten 2024)
+- Kommer snart [DS3103 Webutvikling]() (Karakter: A)
+- Kommer snart [DS3302 Interaksjonsdesign]() (Karakter: A)
+- Kommer snart [PGR208 Android programmering]() (Karakter: A)
+
+
 <!--
 
 **Here are some ideas to get you started:**
