@@ -27,6 +27,11 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - Kommer snart [DS3302 Interaksjonsdesign]() (Karakter: A)
 - Kommer snart [PGR208 Android programmering]() (Karakter: A)
 
+#### 4. semester (våren 2025)
+- Kommer snart [BU5300 IT-prosjektledelse]() (Karakter: A)
+- Kommer snart [PG3401 Programmering i C for Linux]() (Karakter: A)
+- Kommer snart [PG4200 Algorithms and Data Structures]() (Karakter: A)
+- Kommer snart [PGR107 Python Programming]() (Karakter: A)
 
 <!--
 
