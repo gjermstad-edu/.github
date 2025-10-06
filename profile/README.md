@@ -25,7 +25,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 #### 3. semester (høsten 2024)
 - [DS3103 Webutvikling](https://github.com/gjermstad-edu/DS3103_Web-Development_exam_Fall2024) (Karakter: A)
 - Kommer snart [DS3302 Interaksjonsdesign]() (Karakter: A)
-- Kommer snart [PGR208 Android programmering]() (Karakter: A)
+- [PGR208 Android programmering](https://github.com/gjermstad-edu/PGR208-exam-h24) (Karakter: A)
 
 #### 4. semester (våren 2025)
 - Kommer snart [BU5300 IT-prosjektledelse]() (Karakter: A)
