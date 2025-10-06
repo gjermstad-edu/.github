@@ -23,7 +23,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PGR110 Visual Analytics, eksamen 2024](https://github.com/gjermstad-edu/PGR110_Visual-Analytics_eksamen_2024) (Bestått)
 
 #### 3. semester (høsten 2024)
-- Kommer snart [DS3103 Webutvikling]() (Karakter: A)
+- [DS3103 Webutvikling](https://github.com/gjermstad-edu/DS3103_Web-Development_exam_Fall2024) (Karakter: A)
 - Kommer snart [DS3302 Interaksjonsdesign]() (Karakter: A)
 - Kommer snart [PGR208 Android programmering]() (Karakter: A)
 
