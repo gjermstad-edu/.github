@@ -17,6 +17,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 
 #### 1. semester (høsten 2023)
 - [DB1102 Databaser, eksamen 2023](https://github.com/gjermstad-edu/DB1102_databaser_h2023_eksamen) (Bestått)
+  - [Arbeidskrav i DB1102, høsten 2023](https://github.com/gjermstad-edu/DB1102_arbeidskrav_H2023)
 - [PRO105 Kreativt webprosjekt, eksamen 2023](https://github.com/gjermstad-edu/PRO105_kreativt-webprosjekt_h2023_eksamen) (Bestått)
 - [PGR102 Intro til programmering, eksamen 2023](https://github.com/gjermstad-edu/PGR102_intro-til-programmering_h2023_eksamen) (Bestått)
   - [Arbeidskrav i PGR102, høsten 2023](https://github.com/gjermstad-edu/pgr102_arbeidskrav_H2023)
