@@ -28,9 +28,9 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PGR208 Android programmering](https://github.com/gjermstad-edu/PGR208-exam-h24) (Karakter: A)
 
 #### 4. semester (våren 2025)
-- Kommer snart [BU5300 IT-prosjektledelse]() (Karakter: A)
+- [BU5300 IT-prosjektledelse](https://github.com/gjermstad-edu/BU5300_eksamen_IT-2025) (Karakter: A)
 - Kommer snart [PG3401 Programmering i C for Linux]() (Karakter: A)
-- Kommer snart [PG4200 Algorithms and Data Structures]() (Karakter: A)
+- [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/PG4200-Algorithms-and-Data-Structures_exam_spring-2025) (Karakter: A)
 - Kommer snart [PGR107 Python Programming]() (Karakter: A)
 
 <!--
