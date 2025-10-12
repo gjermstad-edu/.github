@@ -29,7 +29,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 
 #### 4. semester (våren 2025)
 - [BU5300 IT-prosjektledelse](https://github.com/gjermstad-edu/BU5300_eksamen_IT-2025) (Karakter: A)
-- Kommer snart [PG3401 Programmering i C for Linux]() (Karakter: A)
+- [PG3401 Programmering i C for Linux](https://github.com/gjermstad-edu/pg3401-exam-2025) (Karakter: A)
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/PG4200-Algorithms-and-Data-Structures_exam_spring-2025) (Karakter: A)
 - [PGR107 Python Programming](https://github.com/gjermstad-edu/PGR107_Python-Programming_spring-2025) (Karakter: A)
 
