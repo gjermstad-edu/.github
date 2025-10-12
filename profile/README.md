@@ -1,14 +1,18 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gjermstad-edu)
 
-## Kenneth Andre Bettum Gjermstad - Edu 👋
-Heisann ☀️ Dette er GitHub'en min hvor jeg samler eksamensbesvarelser, arbeidskrav og annet arbeid jeg har gjort iløpet av utdanningen min (bachelor i Informasjonsteknologi: Frontend- og mobilutvikling i 2023-2026) ved Høyskolen Kristiania campus Bergen.
+## Kenneth André Bettum Gjermstad - Edu 👋
+Heisann ☀️ 
 
-**📫 Ta gjerne kontakt:**
+Dette er GitHub'en min hvor jeg samler eksamensbesvarelser, arbeidskrav og annet arbeid jeg har gjort iløpet av utdanningen min (bachelor i Informasjonsteknologi: Frontend- og mobilutvikling i 2023-2026) ved Høyskolen Kristiania campus Bergen.
+
+**📫 Ta gjerne kontakt på LinkedIn eller GitHub:**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/marie-stigen/](https://www.linkedin.com/in/kennethbettumgjermstad/))
+
 [<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/gjermstad)
 
----
+----- 
+
 Høyskolen Kristiania / College Kristiania campus Bergen
 
 #### 1. semester (høsten 2023)
@@ -33,6 +37,10 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PG3401 Programmering i C for Linux](https://github.com/gjermstad-edu/pg3401-exam-2025) (Karakter: A)
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/PG4200-Algorithms-and-Data-Structures_exam_spring-2025) (Karakter: A)
 - [PGR107 Python Programming](https://github.com/gjermstad-edu/PGR107_Python-Programming_spring-2025) (Karakter: A)
+
+-----
+
+Her har jeg samlet gamle eksamensoppgaver fra IT-fag på Høyskolen Kristiania så andre studenter kan bruke de til å øve og forberede seg i fremtiden: [Tidligere eksamensoppgaver](https://github.com/gjermstad-edu/frontend-kristiania-exams)
 
 <!--
 
