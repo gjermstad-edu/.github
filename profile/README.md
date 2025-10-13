@@ -40,6 +40,8 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/PG4200-Algorithms-and-Data-Structures_exam_spring-2025) (Karakter: A)
 - [PGR107 Python Programming](https://github.com/gjermstad-edu/PGR107_Python-Programming_spring-2025) (Karakter: A)
 
+#### 5. semester (høsten 2025) - _pågående_
+
 -----
 
 Her har jeg samlet gamle eksamensoppgaver fra IT-fag på Høyskolen Kristiania så andre studenter kan bruke de til å øve og forberede seg i fremtiden: [Tidligere eksamensoppgaver](https://github.com/gjermstad-edu/frontend-kristiania-exams)
