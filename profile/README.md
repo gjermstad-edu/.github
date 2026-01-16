@@ -40,7 +40,10 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 - [PG4200 Algorithms and Data Structures](https://github.com/gjermstad-edu/PG4200-Algorithms-and-Data-Structures_exam_spring-2025) (Karakter: A)
 - [PGR107 Python Programming](https://github.com/gjermstad-edu/PGR107_Python-Programming_spring-2025) (Karakter: A)
 
-#### 5. semester (høsten 2025) - _pågående_
+#### 5. semester (høsten 2025)
+- [TDS200 Kryssplattform](https://github.com/gjermstad-edu/TDS200_Crossplattform_exam_H2025) (Karakter: B)
+- [PG5602 iOS programmering](https://github.com/gjermstad-edu/PG5602_iOS_exam_H2025) (Karakter: A)
+- PRO203 Smidig prosjekt (Karakter: A) - _kommer_
 
 -----
 
