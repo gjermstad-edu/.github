@@ -43,6 +43,7 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 #### 5. semester (høsten 2025)
 - [TDS200 Kryssplattform](https://github.com/gjermstad-edu/TDS200_Crossplattform_exam_H2025) (Karakter: B)
 - [PG5602 iOS programmering](https://github.com/gjermstad-edu/PG5602_iOS_exam_H2025) (Karakter: A)
+  - [Arbeidskrav i PG5602, høsten 2025](https://github.com/gjermstad-edu/pg5602_mandatory-assignment_ToDo-app_H2025)
 - PRO203 Smidig prosjekt (Karakter: A) - _kommer_
 
 -----
