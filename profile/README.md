@@ -49,7 +49,11 @@ Høyskolen Kristiania / College Kristiania campus Bergen
 
 -----
 
-Her har jeg samlet gamle eksamensoppgaver fra IT-fag på Høyskolen Kristiania så andre studenter kan bruke de til å øve og forberede seg i fremtiden: [Tidligere eksamensoppgaver](https://github.com/gjermstad-edu/frontend-kristiania-exams)
+## Tidligere eksamensoppgaver ved IT-studiene i Kristiania
+Her har jeg samlet gamle eksamensoppgaver fra IT-fagene til bachelor i Frontend og Cybersikkerhet på Høyskolen Kristiania så andre studenter kan bruke de til å øve og forberede seg i fremtiden: [Tidligere eksamensoppgaver](https://github.com/gjermstad-edu/frontend-kristiania-exams)
+
+Har du en eksamenstekst fra et IT-fag jeg manger (må ikke være Frontend og Cybersikkerhet) så send meg en melding eller lag en Pull Request så vi får lagt den til 👍 
+Målet mitt er å ha et sted med tidligere eksamensoppgaver for det irriterte meg under studiet at det var så vanskelig å finne oppgaver å øve meg på.
 
 <!--
 
